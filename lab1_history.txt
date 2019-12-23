@@ -1,0 +1,3 @@
+    1  id
+    2  whoami
+    3  history > lab1_history.txt
